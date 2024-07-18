@@ -1,1 +1,1 @@
-# discord-witch-botu
+# witch discord turnuva event kontrol botu
